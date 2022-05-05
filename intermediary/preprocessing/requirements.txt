@@ -1,0 +1,6 @@
+regex
+unicodedata
+pyvi
+vncorenlp
+emoji
+pandas==1.3

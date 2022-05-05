@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "json": {
+        "productTypeId": null,
+        "reviewsSummaryChart": {
+            "title": "Đánh giá nhận xét từ khách hàng",
+            "data": {
+                "labels": [5, 4, 3, 2, 1],
+                "total": null,
+                "count": null
+            }
+        },
+        "commentTypesSummaryChart": {
+            "title": "Biểu đồ tỉ lệ các loại bình luận",
+            "data": {
+                "labels": ["Có từ ngữ vô nghĩa", "Mang tính chất nhận xu"],
+                "total": null,
+                "count": null
+            }
+        },
+        "data": null
+    }
+}

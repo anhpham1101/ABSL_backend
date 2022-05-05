@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "json": {
+        "productTypeId": null,
+        "stackedBarChart": {
+            "title": "Biểu đồ phân tích sắc thái bình luận của sản phẩm theo từng lĩnh vực",
+            "data": {
+                "labels": null,
+                "datasets": [
+                    {
+                        "label": "Tốt",
+                        "data": null,
+                        "backgroundColor": "rgb(66, 245, 75)"
+                    },
+                    {
+                        "label": "Trung lập",
+                        "data": null,
+                        "backgroundColor": "rgb(255, 232, 105)"
+                    },
+                    {
+                        "label": "Xấu",
+                        "data": null,
+                        "backgroundColor": "rgb(255, 70, 70)"
+                    }
+                ],
+                "aspects": null
+            }
+    
+        }
+    }
+}

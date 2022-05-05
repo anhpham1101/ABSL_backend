@@ -1,0 +1,1 @@
+tensorflow_model_server --port=8500 --rest_api_port="${PORT}" --model_config_file=/models/serving_docker.config --model_config_file_poll_wait_seconds=60 "$@"
